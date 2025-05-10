@@ -16,7 +16,7 @@ Demo app using Next.js
 
 1-Run the following command:
   ```bash
-   docker-compose up --build
+   docker compose up --build
  ```
 2-After that, visit the following URLs:
 
